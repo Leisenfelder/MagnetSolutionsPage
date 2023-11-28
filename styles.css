@@ -1,11 +1,14 @@
 body{
     display: block;
     overflow-x: hidden;
+    font-family: arial;
+    font-size: 18px;
 }
 
 nav{
-    max-height: min-content;
     background-color: whitesmoke;
+    padding-bottom: 10px;
+    padding-top: 15;
 }
 
 .navbar-brand img{
@@ -14,18 +17,28 @@ nav{
 
 .navbar-brand{
     display: block;
-    font-size: 24px;
+    font-size: 12px;
     text-transform: uppercase;
     font-weight: 900;
-    color: blueviolet;
+    color: blue;
 }
 
-nav ul li a{
-    color: black;
-    font-size: 22px;
+.navbar-brand a{
+    color: red;
+}
+
+.navbar-brand ul li a{
+    color: red;
+    font-size: 12px;
     margin: auto 10px;
 }
 
-nav ul li a:hover{
-    color: green;
-}
+
+.carousel .item {
+    width: 100%;
+    /*slider width */
+  }
+  .carousel .item img {
+    width: 100%;
+    /*img width*/
+  }
