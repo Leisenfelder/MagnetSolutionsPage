@@ -25,6 +25,7 @@ nav{
 
 .navbar-brand a{
     color: red;
+    font-size: 12px;
 }
 
 .navbar-brand ul li a{
