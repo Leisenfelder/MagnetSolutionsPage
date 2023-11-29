@@ -37,7 +37,7 @@ nav{
 }
 
 .navbar-brand ul li a{
-    color: red;
+    color: blue;
     font-size: 12px;
     margin: auto 10px;
 }
@@ -51,3 +51,10 @@ nav{
     width: 100%;
     /*img width*/
   }
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    justify-content: center;
+}
