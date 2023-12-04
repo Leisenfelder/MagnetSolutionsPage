@@ -3,6 +3,7 @@ body{
     overflow-x: hidden;
     font-family: arial;
     font-size: 18px;
+    padding-top: 150px;
 }
 
 hr {
@@ -38,7 +39,7 @@ nav{
 
 .navbar-brand ul li a{
     color: blueviolet;
-    font-size: 16px;
+    font-size: 14px;
     margin: auto 10px;
 }
 
@@ -58,3 +59,13 @@ nav{
     margin-bottom: 10px; /* Added */
     justify-content: center;
 }
+
+.list-group-item border-0 {
+    list-style-type: disc !important;
+    padding-left: 1em;
+}
+
+.list-group-item::before {
+    content: "●";
+    margin-right: 0.75rem;
+  }
