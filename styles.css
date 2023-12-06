@@ -14,6 +14,11 @@ hr {
     background-color: #333;  /* Modern Browsers */
   }
 
+
+  img {
+    align-self: self-end;
+  }
+
 nav{
     background-color: whitesmoke;
     padding-bottom: 10px;
@@ -69,3 +74,11 @@ nav{
     content: "●";
     margin-right: 0.75rem;
   }
+
+  .box {
+    justify-self: end;
+    width: 100%;
+    height: 100%;
+    border: 2px dashed ghostwhite;
+  }
+  
