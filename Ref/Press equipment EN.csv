@@ -1,0 +1,30 @@
+﻿,Variable displacement pump system,Electro-hydraulic servo valve,Closed-loop sevo
+Upper cylinder stroke length,350,350,350
+Upper cylinder running speed,0-140mm/s *Adjustable,0-140mm/s  *Adjustable,0-140mm/s  *Adjustable
+Lower cylinder stroke length,140/180,140/180,140/180
+Lower cylinder running speed,0-80mm/s  *Adjustable,0-80mm/s  *Adjustable,0-80mm/s  *Adjustable
+Specified pressure,45T/63T,45T/63T,45T/63T
+Accuracy of magnetic scale,0.1/0.01 mm,0.01 mm,0.01 mm
+Accuracy of knock pin,0.1/0.05/0.01mm,0.05mm,0.01mm
+Diameters of electromagnet megnatic poles,290/360/500 mm,290/360/500 mm,290/360/500 mm
+Convergence diameter of elctromagnet,200/250/350 mm,200/250/350 mm,200/250/350 mm
+Oriented magnetic field strength,1.3-1.5 T or more (by 152-202),1.3-1.5 T or more (by 152-202),1.3-1.5 T or more (by 152-202)
+Elctromagnet excitation current ,800-1000A,800-1000A,800-1000A
+Increase and shutoff speed of magnetic field,within 1S each,within 15 each,within 15 each
+Water cooling system,Generate magnetic field without weakening 24/7,Generate magnetic field without weakening 24/7,Generate magnetic field without weakening 24/7
+Maximum pressure of hydraulic system,21mPa,21mPa,21mPa
+Motor power,11KW 3 phase asynchronous motor,12.5KW Servo motor*2,7.5KW Mitsubishi servo motor*2
+Hydraulic control system,Proportional valve control,Servo controlling pressure snd speed,Closed-loop servo control
+Pressurize system,Variable displacement pump proportional valve floating suppression,Double servo floating suppression,Closed-loop double servo floating suppression
+Accuracy of pressurization,0.2mPa,0.1mPa,0.01mPa
+Guiding structure,8 poles/12 poles,8 poles/12 poles,8 poles/12 poles
+Protections for demoulding,Pressure Relief/Air/Pressure feedback,Pressure Relief/Air/Pressure feedback,Pressure Relief/Air/Pressure feedback
+Accuracy of demoulding pressure control,0.5T,0.1T,0.01
+Feeding mouthpiece,Diameter 100 standard interface,Diameter 100 standard interface,Diameter 100 standard interface
+Weighting system,Imported load cell / imported digital scale,Imported load cell / imported digital scale,Imported load cell / imported digital scale
+Accuracy of weighting,±0.5g/±1g,±0.5g/±1g,±0.5g/±1g
+Material box refilling,"Floating alternating refilling, repeat time adjustable","Floating alternating refilling, repeat time adjustable","Floating alternating refilling, repeat time adjustable"
+Pitch,25-45,25-45,25-45
+Hermeticity,maintain the chamber pressure at 0.5kpa over 1h after cutting off the air,maintain the chamber pressure at 0.5kpa over 1h after cutting off the air,maintain the chamber pressure at 0.5kpa over 1h after cutting off the air
+Total weight,11T-24T,11T-24T,11T-24T
+Material pickup supporting system,"Automatic code wheel of 1 to 1, 2 to 1 or interconnection","Automatic code wheel of 1 to 1, 2 to 1 or interconnection","Automatic code wheel of 1 to 1, 2 to 1 or interconnection"
